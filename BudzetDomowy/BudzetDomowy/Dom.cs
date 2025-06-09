@@ -45,7 +45,7 @@ namespace BudzetDomowy
             Console.Clear();
             if (Przychod <= 0)
             {
-                Console.WriteLine("Idz do pracy");
+                Console.WriteLine("Niewystarczajacy fundusz");
                 Environment.Exit(0);
             }
 
