@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\BudzetDomowy\BudzetDomowy\bin\Debug\net8.0\BudzetDomowy.exe
+C:\Users\admin\source\repos\BudzetDomowy\BudzetDomowy\bin\Debug\net8.0\BudzetDomowy.deps.json
+C:\Users\admin\source\repos\BudzetDomowy\BudzetDomowy\bin\Debug\net8.0\BudzetDomowy.runtimeconfig.json
+C:\Users\admin\source\repos\BudzetDomowy\BudzetDomowy\bin\Debug\net8.0\BudzetDomowy.dll
+C:\Users\admin\source\repos\BudzetDomowy\BudzetDomowy\bin\Debug\net8.0\BudzetDomowy.pdb
+C:\Users\admin\source\repos\BudzetDomowy\BudzetDomowy\obj\Debug\net8.0\BudzetDomowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\BudzetDomowy\BudzetDomowy\obj\Debug\net8.0\BudzetDomowy.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\BudzetDomowy\BudzetDomowy\obj\Debug\net8.0\BudzetDomowy.AssemblyInfo.cs
+C:\Users\admin\source\repos\BudzetDomowy\BudzetDomowy\obj\Debug\net8.0\BudzetDomowy.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BudzetDomowy\BudzetDomowy\obj\Debug\net8.0\BudzetDomowy.dll
+C:\Users\admin\source\repos\BudzetDomowy\BudzetDomowy\obj\Debug\net8.0\refint\BudzetDomowy.dll
+C:\Users\admin\source\repos\BudzetDomowy\BudzetDomowy\obj\Debug\net8.0\BudzetDomowy.pdb
+C:\Users\admin\source\repos\BudzetDomowy\BudzetDomowy\obj\Debug\net8.0\BudzetDomowy.genruntimeconfig.cache
+C:\Users\admin\source\repos\BudzetDomowy\BudzetDomowy\obj\Debug\net8.0\ref\BudzetDomowy.dll
